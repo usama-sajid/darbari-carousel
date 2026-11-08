@@ -38,7 +38,8 @@
       "title": "Your sponsor",
       "subtitle": "Sponsored message",
       "imageUrl": "",
-      "fallbackAsset": ""
+      "fallbackAsset": "",
+      "targetUrl": "https://google.com"
     }
   ]
 }
