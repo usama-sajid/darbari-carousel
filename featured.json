@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "kind": "artist",
+      "enabled": true,
+      "title": "Nusrat Fateh Ali Khan",
+      "subtitle": "The voice that made qawwali soar",
+      "imageUrl": "https://usama-sajid.github.io/darbari-carousel/nusrat-fateh-ali-khan.jpg",
+      "fallbackAsset": "assets/featured/nusrat-fateh-ali-khan.jpg"
+    },
+    {
+      "kind": "artist",
+      "enabled": true,
+      "title": "Noor Jehan",
+      "subtitle": "The melody queen",
+      "imageUrl": "https://usama-sajid.github.io/darbari-carousel/noor-jehan.jpg",
+      "fallbackAsset": "assets/featured/noor-jehan.jpg"
+    },
+    {
+      "kind": "artist",
+      "enabled": true,
+      "title": "Mehdi Hassan",
+      "subtitle": "The emperor of ghazal",
+      "imageUrl": "https://usama-sajid.github.io/darbari-carousel/mehdi-hassan.jpg",
+      "fallbackAsset": "assets/featured/mehdi-hassan.jpg"
+    },
+    {
+      "kind": "artist",
+      "enabled": true,
+      "title": "Ghulam Ali",
+      "subtitle": "A timeless voice of ghazal",
+      "imageUrl": "https://usama-sajid.github.io/darbari-carousel/ghulam-ali.jpg",
+      "fallbackAsset": "assets/featured/ghulam-ali.jpg"
+    },
+    {
+      "kind": "ad",
+      "enabled": false,
+      "title": "Your sponsor",
+      "subtitle": "Sponsored message",
+      "imageUrl": "",
+      "fallbackAsset": ""
+    }
+  ]
+}
