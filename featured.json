@@ -30,7 +30,8 @@
       "title": "Ghulam Ali",
       "subtitle": "A timeless voice of ghazal",
       "imageUrl": "https://usama-sajid.github.io/darbari-carousel/ghulam-ali.jpg",
-      "fallbackAsset": "assets/featured/ghulam-ali.jpg"
+      "fallbackAsset": "assets/featured/ghulam-ali.jpg",
+       "targetUrl": "https://google.com"
     },
     {
       "kind": "ad",
